@@ -1,0 +1,13 @@
+
+// calculate area of the circle 
+Area=(3.14)*r*r
+
+Step 1: Start
+Step 2: Declare float variables RADIUS and AREA 
+Step 3: Read float value into RADIUS
+Step 4: Perform 3.14*RADIUS*RADIUS and store value into AREA
+Step 5: Display value of AREA
+Step 6: End
+
+
+
