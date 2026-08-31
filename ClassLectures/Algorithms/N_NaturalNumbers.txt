@@ -1,11 +1,23 @@
 // Repititive Algorithm for display N Natural numbers
 
 Step 1: Start
-Step 2: Declare integer variable NUM and SOU
-Step 3: Read an integer value into NUM
+Step 2: Declare integer variable DES and SOU
+Step 3: Read an integer value into DES
 Step 4: Initialize SOU=1
-Step 5: Check whether SOU<=NUM.
+Step 5: Check whether SOU<=DES.
 		if yes, goto step 6;otherwise, goto step 8
 Step 6: Display value of SOU
 Step 7: Increment SOU value by 1 and goto step 5
 Step 8: End
+
+
+// Pseudocode for display N Natural Numbers
+
+Step 1: START
+Step 2: READ DES
+Step 3: SET SOU <- 1
+Step 4: WHILE SOU<=DES THEN
+			DISPLAY SOU
+			SET SOU <- SOU+1
+		ENDWHILE
+Step 5: END
